@@ -13,7 +13,7 @@ public class Stackinfo {
 
         System.out.println("Список имен: "+list);
 
-        list.push("Коля");
+        list.push("Николай");
 
         System.out.println("Список имен" +list);
 
